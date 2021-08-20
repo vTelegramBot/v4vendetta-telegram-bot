@@ -1,1 +1,1 @@
-# v4vendetta-telegram-bot
+# vendetta-telegram-bot
